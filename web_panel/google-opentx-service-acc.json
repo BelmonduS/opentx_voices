@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "opentxvoices",
+  "private_key_id": "d4114d776106fb0e9e03640b2e0a1722b91714fc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkMFRAKheykIwR\nYig4SQaEIJNbZKxDuprbD13EpTiA+utYouy7c8TXliGzYWO1S7y6WrHvGidK5uOP\nlc5LVzZin2oXOwT6+Hc6caq1DRmE/7FrPn/ODunXVruvmv/VRkkWkRv38TeHW7f3\noKVxJ0+YYhY47eJiuT6sTU8M8PxRWbtD1Us0aT0AMT8/59K97UqLpgKzmIMKOo4Z\nI8L0kH9ydUJgD5uiY8wxWYmihAdr5d++EIOTP5X+bapCErBr3qGvIoceQ/ctYb7Q\ne0D9bH98VVmtiSKm1F/FkEpPT+9uz8G8/MkQN5yODasLA4O1tHMcJ6nzh8KFtRgo\nkWnEactnAgMBAAECggEAFefheGrFR6HedjvyNsmTcNHHJ0nwFoc76EniuPz8OW/W\nMji751SjqMnTNujMUfYdY4BR6MnvVSB8sFMMjOPBZ04dQaUyXb5ZwKFFZSuEF0kQ\nEElslCmhjFqk5uHXYUqj2hAZOwQ4DuYEo6lkzrXaekUX8ZeCJ/7O0alCM0KnFL6d\nNI8wyZ6xFopdLQ/7WiCWgjXQhlCTssSRaE8cHe7lPhvXUHIaCbTG+uycwRzQc8Ls\nj28vpcipxJc3xk+0qYzvn1c5UO/VZO44UiAA1F0HSAQYQ/8wRkCV9ElxLJLQ3XrZ\n7NrurnkZSZanTQwDkAMc4/uT8acs6/DUYPByKzjfLQKBgQDQ5QDSUWy1hp3VyrOk\nMaorXr8SEr6LXpm2WAz3yAvoGpziv8kiNpBJgFzJ/v+M4YJFsY/N2tLprByAWJU2\nxuGDTVSZDNNe3a6LxhG2qboUcE67wRJsJIHqGmDOGhG3VAWxUJZkkvd+klSaZ9+d\nFWCc6Yo0sdtX9sxY7GrGVFo2EwKBgQDJNpD6DlZx5m/XxhV90HTvFnJEGbFGnhva\nZdHnu60XgukN6wTff7iTCr7Q5DMpolUIEbE+wERIbZg3DpNt7QYaFbJKwcGHUA7I\nXKOg96qaBFlT/98QzHAhqisuuBDyn+x1ZD2Sx7rTybVcFcmk4JyJSX3f1KT6PYsz\nNgR6VOoP3QKBgQCey2Z7epAz0bhL28IBcAuW2nhO6dbVJT2eAoMhHH4Im6plKDti\nea3nYd+nYeOrmYWpKxhQ+SZZoY8s9anAMSEe6fsEOV64f7X+5Lt0asNcZB9F1LgH\nYx0q85BhPCn5fbKyHrukip//JIeRtKKky6pcvZ9k/UrrLF4cvuNQDrFg5wKBgARQ\nTClgN1A3zXwFvh41YtxhUc/N8TP/Xb9/4VEjf+F6J/7pY/Bar51PZKnbypEA7uu+\nXVtoCc63ssSzZku8Ah57Cph5sOlyuO5otgVUae7lWvjnCmQ0zc6a9FQLFCnvbcVS\ngdNsvr+dmmq/+NO1EQYMcktjJqpKuXo+lTf+LAptAoGAK8LlPdTIGwUT10dYCVWQ\nLeNUuTRa+GpEZJ2ZBixE8UVnOZF5G4VRfS8TedfcJATEOTu6N33xSovaNwz/V/Px\n30Q/5oLzZcFEwTSEMMhXbUslLjG312IRGvpffMVSEgIOqoeWq03rFgAsTPjk36PD\nS+OkaNwW4NiM8v6q7mZ0zMA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "opentx-voice@opentxvoices.iam.gserviceaccount.com",
+  "client_id": "103990580910791487351",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/opentx-voice%40opentxvoices.iam.gserviceaccount.com"
+}
