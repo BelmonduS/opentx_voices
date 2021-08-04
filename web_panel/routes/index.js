@@ -1,9 +1,9 @@
-var express = require('express');
-var router = express.Router();
+const express = require('express');
+const router = express.Router();
+const appRoot = require('app-root-path');
+const controller_generate_language_pack = require(appRoot + '/controllers/api/generate_language_pack');
 
 /* GET home page. */
-router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
-});
+router.get('/', controller_generate_language_pack.company_add_user);
 
 module.exports = router;

@@ -110,64 +110,64 @@ system:
   0106: 700
   0107: 800
   0108: 900
-  0109: thousand
-  0110: and
+  0109: 1000
+  0110: i
   0111: minus
-  0112: point
+  0112: .
   volt0: volt
-  volt1: volts
+  volt1: volty
   amp0: amp
-  amp1: amps
+  amp1: ampery
   mamp0: milliamp
-  mamp1: milliamps
-  knot0: knot
-  knot1: knots
-  mps0: meter per second
-  mps1: meters per second
+  mamp1: milliampery
+  knot0: wezel
+  knot1: wezly
+  mps0: metr na secunde
+  mps1: metry na sekunde
   fps0: foot per second
   fps1: feet per second
-  kph0: kilometer per hour
-  kph1: kilometers per hour
-  mph0: mile per hour
-  mph1: miles per hour
-  meter0: meter
-  meter1: meters
-  foot0: foot
-  foot1: feet
-  celsius0: degree celsius
-  celsius1: degrees celsius
-  fahr0: degree fahrenheit
-  fahr1: degrees fahrenheit
-  percent0: percent
-  percent1: percent
-  mamph0: milliamp-hour
-  mamph1: milliamp-hours
+  kph0: kilometr na godzine
+  kph1: kilometry na godzine
+  mph0: mila na godzine
+  mph1: mile na godzine
+  meter0: metr
+  meter1: metry
+  foot0: stopa
+  foot1: stopy
+  celsius0: stopien celsiusza
+  celsius1: stopni celsiusza
+  fahr0: stopien fahrenheita
+  fahr1: stopni fahrenheita
+  percent0: procent
+  percent1: procenty
+  mamph0: milliampero-godzina
+  mamph1: milliampero-godziny
   watt0: watt
-  watt1: watts
+  watt1: watty
   mwatt0: milli-watt
-  mwatt1: milli-watts
+  mwatt1: milli-watty
   db0: D B
   db1: D B
   rpm0: r p m
   rpm1: r p m
   g0: g
   g1: g
-  degree0: degree
-  degree1: degrees
+  degree0: kat
+  degree1: katy
   rad0: radian
-  rad1: radians
-  ml0: milliliter
-  ml1: milliliters
+  rad1: radiany
+  ml0: millilitr
+  ml1: millilitry
   founce0: fluid ounce
   founce1: fluid ounces
   mlpm0: milliliter per minute
   mlpm1: milliliters per minute
-  hour0: hour
-  hour1: hours
-  minute0: minute
-  minute1: minutes
-  second0: second
-  second1: seconds
+  hour0: godzina
+  hour1: godziny
+  minute0: minuta
+  minute1: minuty
+  second0: sekunda
+  second1: sekundy
   0167: point zero
   0168: point one
   0169: point two
@@ -225,7 +225,7 @@ custom:
   nrmmod: normal. mode!, on
   lnding: landing. mode!, on
   acro: acro. mode!, on
-  fm-1: flight mode one
+  fm-1: tryb lotu one
   fm-2: flight mode two
   fm-3: flight mode three
   fm-4: flight mode four
